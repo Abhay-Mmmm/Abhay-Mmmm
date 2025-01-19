@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Krishna</h1>
 <h3 align="center">A passionate developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-mmmm&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-mmmm" /> </p>
 

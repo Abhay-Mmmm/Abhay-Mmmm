@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Krishna</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-mmmm&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-mmmm" /> </p>
-
 - 🌱 I’m currently learning **LeetCode and CS50 Courses**
 
 - 💬 Ask me about **C, Python and Java**

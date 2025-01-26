@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhaykrishna280@gmail.com**
 
-- ⚡ Fun fact **I think I am an adult😂**
+- ⚡ Fun fact **I feel like a kid😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

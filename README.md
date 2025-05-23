@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Krishna</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **LeetCode and CS50 Courses**
+- 🌱 I’m currently learning **LeetCode and AI/ML**
 
 - 💬 Ask me about **C, Python and Java**
 

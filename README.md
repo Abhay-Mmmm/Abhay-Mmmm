@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhay Krishna</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **LeetCode and AI/ML**
+- 🌱 I’m currently learning **gfg160 and AI/ML with a side of CyberSecurity**
 
 - 💬 Ask me about **C, Python and Java**
 
 - 📫 How to reach me **abhaykrishna280@gmail.com**
 
-- ⚡ Fun fact **I feel like a kid😂**
+- ⚡ Fun fact **I like Hacking😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 ![Abhay Krishna Banner]()
 
-<img alt="Night Coding" src="./assets/wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Abhay Krishna</h2>
+<img alt="Night Coding" src="./assets/" width='40' align="left"/><h2 align="left">Hey there! I'm Abhay Krishna</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Abhay Krishna -->
 

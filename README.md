@@ -50,7 +50,7 @@
 </p>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mzgeokb2m6znbtfw0vr9t372r&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mzgeokb2m6znbtfw0vr9t372r&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=1bed10&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mzgeokb2m6znbtfw0vr9t372r&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 

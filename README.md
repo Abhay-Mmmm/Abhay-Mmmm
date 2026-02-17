@@ -10,7 +10,7 @@
 💡 &nbsp;I like to explore new technologies and trying to be an early adopter.\
 🎓 &nbsp;I am pursuing my B.Tech Degree at SCT College of Engineering.\
 🌱 &nbsp;I'm on track for learning more about Gen AI, Machine Learning.\
-🎮 &nbsp;In my free time, I listen to music and game.\
+🎮 &nbsp;In my free time, I listen to music and game.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -35,7 +35,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
@@ -53,9 +52,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abhay-krishna-otw"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abhaykrishna280@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/theabhaykrishna/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhay-krishna-otw"><img src="https://img.shields.io/badge/-AbhayKrishna-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:abhaykrishna280@gmail.com"><img src="https://img.shields.io/badge/-AbhayKrishna-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/theabhaykrishna/"><img src="https://img.shields.io/badge/-theabhaykrishna-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...

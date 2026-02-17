@@ -41,16 +41,15 @@
 ### ⚙️ &nbsp;GitHub Analytics & Music
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhay-Mmmm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhay-Mmmm&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay-Mmmm&theme=github_dark"/>
 </p>
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhay-Mmmm&theme=algolia"/>
+</p>
+
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mzgeokb2m6znbtfw0vr9t372r&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mzgeokb2m6znbtfw0vr9t372r&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mzgeokb2m6znbtfw0vr9t372r&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 

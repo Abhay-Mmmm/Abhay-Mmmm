@@ -62,19 +62,19 @@
 <a href="https://www.instagram.com/theabhaykrishna/"><img src="https://img.shields.io/badge/-theabhaykrishna-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
+### 🐍 That's How Commits Move ...
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Abhay-Mmmm/Abhay-Mmmm/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Abhay-Mmmm/Abhay-Mmmm/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Abhay-Mmmm/Abhay-Mmmm/output/github-contribution-grid-snake.svg"
   />
 </picture>

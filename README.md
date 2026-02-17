@@ -1,4 +1,4 @@
-![Abhay Krishna Banner]()
+![Abhay Krishna Banner](https://github.com/Abhay-Mmmm/Abhay-Mmmm/blob/main/assets/abhay-banner.png)
 
 <img alt="Night Coding" src="./assets/hi.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Abhay Krishna</h2>
 
@@ -38,7 +38,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics & Fun Stuff
+### ⚙️ &nbsp;GitHub Analytics & Music
 
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
@@ -46,6 +46,11 @@
   </a>
   <a href="https://github.com/Adityakanoi2001">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhay-Mmmm&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mzgeokb2m6znbtfw0vr9t372r&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mzgeokb2m6znbtfw0vr9t372r&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=1bed10&bar_color_cover=false">
   </a>
 </p>
 

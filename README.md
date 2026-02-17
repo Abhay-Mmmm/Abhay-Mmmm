@@ -1,6 +1,6 @@
 ![Abhay Krishna Banner]()
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Abhay Krishna</h2>
+<img alt="Night Coding" src="./assets/wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Abhay Krishna</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Abhay Krishna -->
 
@@ -13,7 +13,7 @@
 🎮 &nbsp;In my free time, I listen to music and game.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/Abhay-Mmmm/Abhay-Mmmm/blob/main/assets/cat.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 

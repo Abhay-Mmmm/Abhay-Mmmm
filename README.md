@@ -1,79 +1,135 @@
-![Abhay Krishna Banner](https://github.com/Abhay-Mmmm/Abhay-Mmmm/blob/main/assets/abhay-banner.png)
+<div align="center">
 
-<img alt="Night Coding" src="./assets/hi.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Abhay Krishna</h2>
+```
+  █████╗ ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗    ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗
+ ██╔══██╗██╔══██╗██║  ██║██╔══██╗╚██╗ ██╔╝    ██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗
+ ███████║██████╔╝███████║███████║ ╚████╔╝     █████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║
+ ██╔══██║██╔══██╗██╔══██║██╔══██║  ╚██╔╝      ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║
+ ██║  ██║██████╔╝██║  ██║██║  ██║   ██║       ██║  ██╗██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║
+ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+```
 
-<!-- ## 👋 &nbsp;Hey there! I'm Abhay Krishna -->
+</div>
 
-### 👨🏻‍💻 &nbsp;About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Agentic+Systems+Builder;B.Tech+CSE+(AI+%26+ML)+%40+SCTCE" alt="Typing SVG" />
+</div>
 
-👨‍💻 &nbsp;I am currently developing random projects that help me.\
-💡 &nbsp;I like to explore new technologies and trying to be an early adopter.\
-🎓 &nbsp;I am pursuing my B.Tech Degree at SCT College of Engineering.\
-🌱 &nbsp;I'm on track for learning more about Gen AI, Machine Learning.\
-🎮 &nbsp;In my free time, I listen to music and game.
+---
 
+```bash
+$ whoami
+```
 
-<img alt="Night Coding" src="https://github.com/Abhay-Mmmm/Abhay-Mmmm/blob/main/assets/cat.gif" align="right"/>
+```
++ Abhay Krishna — AI Engineer · Full-Stack Developer · Agentic Systems Builder
+  Building production-grade LLM systems, multi-agent pipelines, and OSS tooling.
+```
 
-### 🛠 &nbsp;Tech Stack
+```bash
+$ cat status.json
+```
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+```json
+{
+  "institution": "Sree Chitra Thirunal College of Engineering, Kerala",
+  "degree"     : "B.Tech CSE (AI & ML) — Semester 6",
+  "cgpa"       : 8.31,
+  "focus"      : ["Agentic AI", "RAG Pipelines", "LLMs", "Full-Stack"],
+  "status"     : "open to internships & early-career roles"
+}
+```
 
-### 🗃 &nbsp;Databases
+---
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+## 🗂️ Featured Projects
 
+```bash
+$ ls -la ~/projects/
+```
 
-### 🧰 &nbsp;Version Controll & Tools 
+| Repo | Stack | What it does |
+|------|-------|-------------|
+| [**LawVisor**](https://github.com/Abhay-Mmmm/LawVisor) | FastAPI · React · RAG · VLM | Multi-modal legal AI  eliminates ~80% of contract review time via OCR→VLM→RAG pipeline with clause-level risk scores |
+| [**allAgent**](https://github.com/Abhay-Mmmm/allAgent) | Pipecat · Twilio · FastAPI | Real-time voice insurance AI with sub-200ms speech-to-speech latency and persistent caller memory |
+| [**PrimumAI**](https://github.com/Abhay-Mmmm/PrimumAI) | Multi-agent · React · LLM | Conversational loan processing  replaces 3–5 day underwriting with an instant LLM pipeline |
+| [**LogClass**](https://github.com/Abhay-Mmmm/Log-Classification) | Sentence Transformers · Streamlit | 3-tier hybrid log classifier (Regex → Transformer → LLM fallback) for real-time diagnosis |
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+---
 
-### ⚙️ &nbsp;GitHub Analytics & Music
+## 🤝 Open Source Contributions
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay-Mmmm&theme=github_dark"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhay-Mmmm&theme=algolia"/>
-</p>
+```bash
+$ git log --oneline --author="Abhay-Mmmm" --all
+```
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mzgeokb2m6znbtfw0vr9t372r&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mzgeokb2m6znbtfw0vr9t372r&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</p>
+```
+[Contributor] SynapseKit/synapsekit       — async-native Python LLM framework
+                                            Modular components · Document format integrations · Extensibility improvements
+```
 
-### 🤝🏻 &nbsp;Connect with Me
+---
 
-<p align="center">
-<a href="https://www.linkedin.com/in/abhay-krishna-otw"><img src="https://img.shields.io/badge/-AbhayKrishna-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abhaykrishna280@gmail.com"><img src="https://img.shields.io/badge/-AbhayKrishna-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/theabhaykrishna/"><img src="https://img.shields.io/badge/-theabhaykrishna-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+## 🛠️ Tech Stack
 
-### 🐍 That's How Commits Move ...
+```bash
+$ synapsekit status --show deps
+```
+
+```
++ providers    openai · anthropic · ollama · groq · gemini · huggingface
++ frameworks   fastapi · react · streamlit · pipecat · langchain
++ ai/ml        tensorflow · scikit-learn · sentence-transformers · opencv · gguf
++ languages    python · java · sql/pl-sql · c · r
++ databases    postgresql · mongodb · mysql · pinecone · chromadb
++ tools        git · docker · n8n · vscode · notion
++ tests        ✓ all systems nominal
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay-Mmmm&theme=github_dark" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhay-Mmmm&theme=algolia" />
+</div>
+
+---
+
+## 🐍 Commit History
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Abhay-Mmmm/Abhay-Mmmm/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Abhay-Mmmm/Abhay-Mmmm/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Abhay-Mmmm/Abhay-Mmmm/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Abhay-Mmmm/Abhay-Mmmm/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhay-Mmmm/Abhay-Mmmm/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhay-Mmmm/Abhay-Mmmm/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+---
+
+```bash
+$ cat contact.sh
+```
+
+```bash
+#!/bin/bash
+echo "Let's build something."
+
+linkedin="https://www.linkedin.com/in/abhay-krishna-otw"
+github="https://github.com/Abhay-Mmmm"
+email="abhaykrishna280@gmail.com"
+instagram="https://www.instagram.com/theabhaykrishna/"
+
+open $linkedin   # or just reach out!
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-krishna-otw)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhaykrishna280@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/theabhaykrishna/)
+
+</div>

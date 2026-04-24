@@ -91,10 +91,6 @@ $ synapsekit status --show deps
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay-Mmmm&theme=github_dark" width="100%"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Abhay-Mmmm&theme=algolia" />
 </div>
 
@@ -109,22 +105,6 @@ $ synapsekit status --show deps
 </picture>
 
 ---
-
-```bash
-$ cat contact.sh
-```
-
-```bash
-#!/bin/bash
-echo "Let's build something."
-
-linkedin="https://www.linkedin.com/in/abhay-krishna-otw"
-github="https://github.com/Abhay-Mmmm"
-email="abhaykrishna280@gmail.com"
-instagram="https://www.instagram.com/theabhaykrishna/"
-
-open $linkedin   # or just reach out!
-```
 
 <div align="center">
 

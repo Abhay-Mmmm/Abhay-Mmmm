@@ -17,7 +17,7 @@ AI Engineer & Full-Stack Developer — building LLM systems, RAG pipelines, and 
 | [**LawVisor**](https://github.com/Abhay-Mmmm/LawVisor) | Multi-modal legal AI — OCR → VLM → RAG pipeline for clause-level contract risk scoring with live GDPR/SEC cross-verification |
 | [**AllAgent**](https://github.com/Abhay-Mmmm/AllAgent) | Real-time voice insurance AI — sub-200ms speech-to-speech latency, persistent caller memory, session-isolated concurrency |
 | [**PrimumAI**](https://github.com/Abhay-Mmmm/PrimumAI) | Conversational loan processing — instant eligibility, EMI calculation & sanction letters via multi-agent LLM backend |
-| [**LogClass**](https://github.com/Abhay-Mmmm/LogClass) | Hybrid log classifier — Regex → Sentence Transformer → LLM fallback, real-time Streamlit UI |
+| [**LogClass**](https://github.com/Abhay-Mmmm/Log-Classification) | Hybrid log classifier — Regex → Sentence Transformer → LLM fallback, real-time Streamlit UI |
 
 ---
 

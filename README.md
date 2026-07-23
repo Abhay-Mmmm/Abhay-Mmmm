@@ -19,6 +19,8 @@ AI Engineer & Full-Stack Developer - building LLM systems, RAG pipelines, and ag
 | [**PrimumAI**](https://github.com/Abhay-Mmmm/PrimumAI) | Conversational loan processing instant eligibility, EMI calculation & sanction letters via multi-agent LLM backend |
 | [**LogClass**](https://github.com/Abhay-Mmmm/Log-Classification) | Hybrid log classifier Regex → Sentence Transformer → LLM fallback, real-time Streamlit UI |
 
+Working on [**Lucyn-AI**](https://github.com/Lucyn-AI)
+
 ---
 
 ### Open Source

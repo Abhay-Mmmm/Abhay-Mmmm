@@ -25,7 +25,7 @@ Working on [**Lucyn-AI**](https://github.com/Lucyn-AI)
 
 ### Open Source
 
-[`SynapseKit`](https://github.com/Abhay-Mmmm/synapsekit) — contributor · async-native Python LLM framework
+[`SynapseKit`](https://github.com/Abhay-Mmmm/synapsekit) - contributor · async-native Python LLM framework
 
 ---
 

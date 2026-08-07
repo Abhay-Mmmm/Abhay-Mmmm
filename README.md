@@ -5,7 +5,7 @@ AI Engineer & Full-Stack Developer - building LLM systems, RAG pipelines, and ag
 
 ---
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhay-Mmmm&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhay-Mmmm&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhay-Mmmm&theme=dracula) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhay-Mmmm&theme=dracula) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhay-Mmmm&theme=github-dark&hide_border=true)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhay-Mmmm&theme=dracula) |
 |---|---|---|
 
 ---

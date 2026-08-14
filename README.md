@@ -10,13 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhay--krishna--otw-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-krishna-otw)
 [![Instagram](https://img.shields.io/badge/Instagram-theabhaykrishna-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/theabhaykrishna/)
 
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhay-Mmmm&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
 </div>
-
-<br>
 
 ## Projects
 

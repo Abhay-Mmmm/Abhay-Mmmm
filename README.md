@@ -21,8 +21,6 @@
 <tr><td><a href="https://github.com/Abhay-Mmmm/Log-Classification"><b>LogClass</b></a></td><td>Hybrid log classifier — Regex → Sentence Transformer → LLM fallback, real-time Streamlit UI</td></tr>
 </table>
 
-Currently building [**Lucyn-AI**](https://github.com/Lucyn-AI)
-
 ## Open Source
 
 **[SynapseKit](https://github.com/Abhay-Mmmm/synapsekit)** — contributor, async-native Python LLM framework

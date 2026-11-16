@@ -2,7 +2,7 @@
 
 # Abhay Krishna
 
-**AI Engineer & Full-Stack Developer** — building LLM systems, RAG pipelines, and agentic backends
+**SDE @ Azmora.ai** — building LLM systems, RAG pipelines, and agentic backends
 
 [`B.Tech CSE (AI & ML)`](https://sctce.ac.in/) · Sree Chitra Thirunal College of Engineering, Kerala · CGPA 8.32
 
